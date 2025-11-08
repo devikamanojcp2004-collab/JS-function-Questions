@@ -25,4 +25,22 @@
 //  console.log(arr[2]);
     
 
+//INTERMEDIATE
+//(1)Find the *sum* of all numbers in an array.
+//  let arr=[2,67,97,9,80,99]
+// let sum=0;
+//  for(i=0;i<arr.length;i++){
+//  sum+=arr[i];
+//  }
+//  console.log(sum);
 
+
+//(2)Find the *largest number* in an array.
+//  let arr=[2,67,97,100,80,99]
+//  let largest=arr[0]
+// for(let i=0;i<arr.length;i++){
+//     if(arr[i]>largest){
+//         largest=arr[i]
+//     }
+// }
+//         console.log(largest);
