@@ -267,9 +267,19 @@
 // }
 // console.log(count);
 
+//---------------------------
+let arr=[4,8,6,7,3,2,9];
 
+function ifIndex(array,num){
+let index=-1;
+for(let i=0;i<=arr.length;i++){
+    if(arr[i]==num){
 
+        index=i;
+    }
 
+}
+        return index;
 
-
-    
+};
+console.log(ifIndex(arr,1));
